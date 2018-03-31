@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="//hera.caslab.queensu.ca/Z_personal/CISC_322/V7/GIFeditor.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/editor/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=editor/src&lt;mainEditor{ImageEditor.java[ImageEditor" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/editor/src/sampleText.txt"/>
+        <javaElement handleIdentifier="=editor/src&lt;mainEditor"/>
+        <file path="/editor/.project"/>
+        <file path="/editor/src/makefile"/>
+        <javaElement handleIdentifier="=editor/src&lt;inputBox"/>
+        <javaElement handleIdentifier="=editor/src&lt;mainEditor.imageAction"/>
+        <file path="/editor/.classpath"/>
+        <javaElement handleIdentifier="=editor/src&lt;mainEditor.observerObject"/>
+        <javaElement handleIdentifier="=editor/src&lt;mainEditor.history"/>
+        <file path="/editor/src/Text.properties"/>
+        <file path="/editor/src/Text_en.properties"/>
+        <file path="/editor/src/Text_fr.properties"/>
+        <javaElement handleIdentifier="=editor/src&lt;mainEditor.GIFInputOutput"/>
+    </selectedElements>
+</jardesc>
